@@ -26,12 +26,19 @@ Through this analysis, I aimed to discover meaningful patterns and understand ho
 - Weekly listening habits
 - Popular artists and songs trends
 
-## Key Findings
+## Expected Key Findings
 
-- Younger users showed stronger preference for pop and hip-hop genres.
-- Older groups tended to prefer ballad and classic genres.
-- Listening time was generally higher during weekends.
-- Genre preference showed noticeable differences across demographic groups.
+- People may prefer different music genres depending on their emotional state, such as happiness, sadness, stress, or relaxation.
+
+- During stressful or emotionally difficult periods, listeners may tend to choose calmer, slower, or more emotionally comforting music.
+
+- Repetitive music selection patterns may appear under similar emotional conditions, suggesting emotional consistency in music choice.
+
+- Listening duration may increase during emotionally intense periods, such as stress relief, loneliness, or relaxation.
+
+- Listening location, such as commuting, home, gym, or workplace, may significantly influence genre preference and music selection behavior.
+
+- External situational factors such as time of day, activity type, and environment may also shape listening patterns beyond personal preference alone.
 
 ## What I Learned
 
